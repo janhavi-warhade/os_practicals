@@ -1,0 +1,21 @@
+# Steps to Write and Run a C Program using Vi Editor
+
+1. Open terminal
+
+2. Create a new C file:
+   vi program.c
+
+3. Press 'i' to enter insert mode
+
+4. Type the C program (as provided in program.c)
+
+5. Press 'Esc' key to exit insert mode
+
+6. Save and exit:
+   :wq
+
+7. Compile the program:
+   gcc program.c -o program
+
+8. Run the program:
+   ./program
